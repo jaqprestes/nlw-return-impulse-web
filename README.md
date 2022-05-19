@@ -18,3 +18,7 @@ Projeto desenvolvido durante o NLW Return, trilha Impulse, da Rocketseat. Um Com
 
 <h2>🔖 Layout </h2>
 Você pode visualizar o layout do projeto através desse <a href= "https://www.figma.com/community/file/1102912516166573468">link</a>. É necessário ter conta no Figma para acessá-lo.
+
+<h2>🚀 Deixe seu feedback!</h2>
+
+Você pode testar o app através do <a href="https://nlw-return-impulse-web-jaqprestes.vercel.app/">link</a>.
